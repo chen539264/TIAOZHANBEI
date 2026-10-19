@@ -1,0 +1,6 @@
+streamlit>=1.40,<2
+ultralytics==8.4.177
+torch
+torchvision
+numpy
+Pillow
